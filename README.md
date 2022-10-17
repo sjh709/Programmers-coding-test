@@ -114,3 +114,4 @@
 * 같은 숫자는 싫어: [Java 코드](/Level-1/4.java)
 * 나누어 떨어지는 숫자 배열: [Java 코드](/Level-1/5.java)
 * 두 정수 사이의 합: [Java 코드](/Level-1/6.java)
+* 문자열 내 마음대로 정렬하기: [Java 코드](/Level-1/7.java)
