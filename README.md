@@ -117,3 +117,4 @@
 * 문자열 내 마음대로 정렬하기: [Java 코드](/Level-1/7.java)
 * 문자열 내 p와 y의 개수: [Java 코드](/Level-1/8.java)
 * 문자열 내림차순으로 배치하기: [Java 코드](/Level-1/9.java)
+* 문자열 다루기 기본: [Java 코드](/Level-1/10.java)
