@@ -126,3 +126,4 @@
 * 약수의 합: [Java 코드](/Level-1/16.java)
 * 이상한 문자 만들기: [Java 코드](/Level-1/17.java)
 * 자릿수 더하기: [Java 코드](/Level-1/18.java)
+* 자연수 뒤집어 배열로 만들기: [Java 코드](/Level-1/19.java)
