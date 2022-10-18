@@ -125,3 +125,4 @@
 * 시저 암호: [Java 코드](/Level-1/15.java)
 * 약수의 합: [Java 코드](/Level-1/16.java)
 * 이상한 문자 만들기: [Java 코드](/Level-1/17.java)
+* 자릿수 더하기: [Java 코드](/Level-1/18.java)
