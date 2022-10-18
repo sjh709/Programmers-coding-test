@@ -119,3 +119,4 @@
 * 문자열 내림차순으로 배치하기: [Java 코드](/Level-1/9.java)
 * 문자열 다루기 기본: [Java 코드](/Level-1/10.java)
 * 서울에서 김서방 찾기: [Java 코드](/Level-1/11.java)
+* 소수 찾기: [Java 코드](/Level-1/12.java)
