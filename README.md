@@ -121,3 +121,4 @@
 * 서울에서 김서방 찾기: [Java 코드](/Level-1/11.java)
 * 소수 찾기: [Java 코드](/Level-1/12.java)
 * 수박수박수박수박수박수?: [Java 코드](/Level-1/13.java)
+* 문자열을 정수로 바꾸기: [Java 코드](/Level-1/14.java)
