@@ -123,3 +123,4 @@
 * 수박수박수박수박수박수?: [Java 코드](/Level-1/13.java)
 * 문자열을 정수로 바꾸기: [Java 코드](/Level-1/14.java)
 * 시저 암호: [Java 코드](/Level-1/15.java)
+* 약수의 합: [Java 코드](/Level-1/16.java)
