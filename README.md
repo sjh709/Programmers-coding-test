@@ -128,3 +128,4 @@
 * 자릿수 더하기: [Java 코드](/Level-1/18.java)
 * 자연수 뒤집어 배열로 만들기: [Java 코드](/Level-1/19.java)
 * 정수 내림차순으로 배치하기: [Java 코드](/Level-1/20.java)
+* 정수 제곱근 판별: [Java 코드](/Level-1/21.java)
