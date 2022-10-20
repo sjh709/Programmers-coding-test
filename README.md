@@ -141,3 +141,4 @@
 * 직사각형 별찍기: [Java 코드](/Level-1/31.java)
 * 소수 만들기: [Java 코드](/Level-1/32.java)
 * 예산: [Java 코드](/Level-1/33.java)
+* [1차] 비밀지도: [Java 코드](/Level-1/34.java)
