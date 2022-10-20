@@ -136,3 +136,4 @@
 * 평균 구하기: [Java 코드](/Level-1/26.java)
 * 하샤드 수: [Java 코드](/Level-1/27.java)
 * 핸드폰 번호 가리기: [Java 코드](/Level-1/28.java)
+* 행렬의 덧셈: [Java 코드](/Level-1/29.java)
