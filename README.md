@@ -137,3 +137,4 @@
 * 하샤드 수: [Java 코드](/Level-1/27.java)
 * 핸드폰 번호 가리기: [Java 코드](/Level-1/28.java)
 * 행렬의 덧셈: [Java 코드](/Level-1/29.java)
+* x만큼 간격이 있는 n개의 숫자: [Java 코드](/Level-1/30.java)
