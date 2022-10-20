@@ -139,3 +139,4 @@
 * 행렬의 덧셈: [Java 코드](/Level-1/29.java)
 * x만큼 간격이 있는 n개의 숫자: [Java 코드](/Level-1/30.java)
 * 직사각형 별찍기: [Java 코드](/Level-1/31.java)
+* 소수 만들기: [Java 코드](/Level-1/32.java)
