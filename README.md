@@ -130,3 +130,4 @@
 * 정수 내림차순으로 배치하기: [Java 코드](/Level-1/20.java)
 * 정수 제곱근 판별: [Java 코드](/Level-1/21.java)
 * 제일 작은 수 제거하기: [Java 코드](/Level-1/22.java)
+* 짝수와 홀수: [Java 코드](/Level-1/23.java)
