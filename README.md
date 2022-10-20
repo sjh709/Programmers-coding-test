@@ -134,3 +134,4 @@
 * 최대공약수와 최소공배수: [Java 코드](/Level-1/24.java)
 * 콜라츠 추측: [Java 코드](/Level-1/25.java)
 * 평균 구하기: [Java 코드](/Level-1/26.java)
+* 하샤드 수: [Java 코드](/Level-1/27.java)
