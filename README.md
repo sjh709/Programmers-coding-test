@@ -145,3 +145,4 @@
 * [1차] 다트 게임: [Java 코드](/Level-1/35.java)
 * 완주하지 못한 선수: [Java 코드](/Level-1/36.java)
 * K번째수: [Java 코드](/Level-1/37.java)
+* 모의고사: [Java 코드](/Level-1/38.java)
