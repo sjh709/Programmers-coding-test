@@ -149,3 +149,4 @@
 * 체육복: [Java 코드](/Level-1/39.java)
 * 실패율: [Java 코드](/Level-1/40.java)
 * 크레인 인형뽑기 게임: [Java 코드](/Level-1/41.java)
+* [카카오 인턴] 키패드 누르기: [Java 코드](/Level-1/42.java)
