@@ -153,3 +153,4 @@
 * 두 개 뽑아서 더하기: [Java 코드](/Level-1/43.java)
 * 3진법 뒤집기: [Java 코드](/Level-1/44.java)
 * 내적: [Java 코드](/Level-1/45.java)
+* 신규 아이디 추천: [Java 코드](/Level-1/46.java)
