@@ -155,3 +155,4 @@
 * 내적: [Java 코드](/Level-1/45.java)
 * 신규 아이디 추천: [Java 코드](/Level-1/46.java)
 * 음양 더하기: [Java 코드](/Level-1/47.java)
+* 로또의 최고 순위와 최저 순위: [Java 코드](/Level-1/48.java)
