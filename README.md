@@ -159,3 +159,4 @@
 * 약수의 개수와 덧셈: [Java 코드](/Level-1/49.java)
 * 숫자 문자열과 영단어: [Java 코드](/Level-1/50.java)
 * 부족한 금액 계산하기: [Java 코드](/Level-1/51.java)
+* 없는 숫자 더하기: [Java 코드](/Level-1/52.java)
