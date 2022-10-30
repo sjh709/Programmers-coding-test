@@ -158,3 +158,4 @@
 * 로또의 최고 순위와 최저 순위: [Java 코드](/Level-1/48.java)
 * 약수의 개수와 덧셈: [Java 코드](/Level-1/49.java)
 * 숫자 문자열과 영단어: [Java 코드](/Level-1/50.java)
+* 부족한 금액 계산하기: [Java 코드](/Level-1/51.java)
