@@ -168,3 +168,4 @@
 * 삼총사: [Java 코드](/Level-1/58.java)
 * 콜라 문제: [Java 코드](/Level-1/59.java)
 * 옹알이 (2): [Java 코드](/Level-1/60.java)
+* 햄버거 만들기: [Java 코드](/Level-1/61.java)
