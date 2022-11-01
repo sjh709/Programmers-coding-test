@@ -165,3 +165,4 @@
 * 신고 결과 받기: [Java 코드](/Level-1/55.java)
 * 성격 유형 검사하기: [Java 코드](/Level-1/56.java)
 * 숫자 짝꿍: [Java 코드](/Level-1/57.java)
+* 삼총사: [Java 코드](/Level-1/58.java)
