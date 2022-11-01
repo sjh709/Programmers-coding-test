@@ -163,3 +163,4 @@
 * 최소직사각형: [Java 코드](/Level-1/53.java)
 * 나머지가 1이 되는 수 찾기: [Java 코드](/Level-1/54.java)
 * 신고 결과 받기: [Java 코드](/Level-1/55.java)
+* 성격 유형 검사하기: [Java 코드](/Level-1/56.java)
