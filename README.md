@@ -175,3 +175,4 @@
 
 * 카카오프렌즈 컬러링북: [Java 코드](/Level-2/1.java)
 * 단체사진 찍기: [Java 코드](/Level-2/2.java)
+* 게임 맵 최단거리: [Java 코드](/Level-2/3.java)
