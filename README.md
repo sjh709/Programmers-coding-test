@@ -181,3 +181,4 @@
 * 3 x n 타일링: [Java 코드](/Level-2/6.java)
 * 가장 큰 정사각형 찾기: [Java 코드](/Level-2/7.java)
 * 올바른 괄호: [Java 코드](/Level-2/8.java)
+* 다음 큰 숫자: [Java 코드](/Level-2/9.java)
