@@ -182,3 +182,4 @@
 * 가장 큰 정사각형 찾기: [Java 코드](/Level-2/7.java)
 * 올바른 괄호: [Java 코드](/Level-2/8.java)
 * 다음 큰 숫자: [Java 코드](/Level-2/9.java)
+* 땅따먹기: [Java 코드](/Level-2/10.java)
