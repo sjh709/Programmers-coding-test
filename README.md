@@ -184,3 +184,4 @@
 * 다음 큰 숫자: [Java 코드](/Level-2/9.java)
 * 땅따먹기: [Java 코드](/Level-2/10.java)
 * 멀리 뛰기: [Java 코드](/Level-2/11.java)
+* 숫자 블록: [Java 코드](/Level-2/12.java)
