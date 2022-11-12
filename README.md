@@ -186,3 +186,4 @@
 * 멀리 뛰기: [Java 코드](/Level-2/11.java)
 * 숫자 블록: [Java 코드](/Level-2/12.java)
 * 숫자의 표현: [Java 코드](/Level-2/13.java)
+* 줄 서는 방법: [Java 코드](/Level-2/14.java)
