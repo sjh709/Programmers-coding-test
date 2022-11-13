@@ -188,3 +188,4 @@
 * 숫자의 표현: [Java 코드](/Level-2/13.java)
 * 줄 서는 방법: [Java 코드](/Level-2/14.java)
 * 최댓값과 최솟값: [Java 코드](/Level-2/15.java)
+* 최솟값 만들기: [Java 코드](/Level-2/16.java)
