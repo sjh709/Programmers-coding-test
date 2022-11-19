@@ -195,3 +195,4 @@
 * JadenCase 문자열 만들기: [Java 코드](/Level-2/20.java)
 * N-Queen: [Java 코드](/Level-2/21.java)
 * N개의 최소공배수: [Java 코드](/Level-2/22.java)
+* 짝지어 제거하기: [Java 코드](/Level-2/23.java)
