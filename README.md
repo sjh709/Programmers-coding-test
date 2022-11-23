@@ -199,3 +199,4 @@
 * 배달: [Java 코드](/Level-2/24.java)
 * 점프와 순간 이동: [Java 코드](/Level-2/25.java)
 * 영어 끝말잇기: [Java 코드](/Level-2/26.java)
+* 예상 대진표: [Java 코드](/Level-2/27.java)
