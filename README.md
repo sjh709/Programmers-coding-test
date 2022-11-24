@@ -200,3 +200,4 @@
 * 점프와 순간 이동: [Java 코드](/Level-2/25.java)
 * 영어 끝말잇기: [Java 코드](/Level-2/26.java)
 * 예상 대진표: [Java 코드](/Level-2/27.java)
+* [1차] 뉴스 클러스터링: [Java 코드](/Level-2/28.java)
