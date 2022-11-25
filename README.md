@@ -201,3 +201,4 @@
 * 영어 끝말잇기: [Java 코드](/Level-2/26.java)
 * 예상 대진표: [Java 코드](/Level-2/27.java)
 * [1차] 뉴스 클러스터링: [Java 코드](/Level-2/28.java)
+* [1차] 프렌즈4블록: [Java 코드](/Level-2/29.java)
