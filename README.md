@@ -203,3 +203,4 @@
 * [1차] 뉴스 클러스터링: [Java 코드](/Level-2/28.java)
 * [1차] 프렌즈4블록: [Java 코드](/Level-2/29.java)
 * [1차] 캐시: [Java 코드](/Level-2/30.java)
+* [3차] 방금그곡: [Java 코드](/Level-2/31.java)
