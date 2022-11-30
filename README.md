@@ -208,3 +208,4 @@
 * [3차] 파일명 정렬: [Java 코드](/Level-2/33.java)
 * [3차] n진수 게임: [Java 코드](/Level-2/34.java)
 * 전화번호 목록: [Java 코드](/Level-2/35.java)
+* 위장: [Java 코드](/Level-2/36.java)
