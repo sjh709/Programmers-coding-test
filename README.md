@@ -215,3 +215,4 @@
 * 프린터: [Java 코드](/Level-2/40.java)
 * 더 맵게: [Java 코드](/Level-2/41.java)
 * 가장 큰 수: [Java 코드](/Level-2/42.java)
+* H-Index: [Java 코드](/Level-2/43.java)
