@@ -216,3 +216,4 @@
 * 더 맵게: [Java 코드](/Level-2/41.java)
 * 가장 큰 수: [Java 코드](/Level-2/42.java)
 * H-Index: [Java 코드](/Level-2/43.java)
+* 소수 찾기: [Java 코드](/Level-2/44.java)
