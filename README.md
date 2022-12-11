@@ -218,3 +218,4 @@
 * H-Index: [Java 코드](/Level-2/43.java)
 * 소수 찾기: [Java 코드](/Level-2/44.java)
 * 카펫: [Java 코드](/Level-2/45.java)
+* 조이스틱: [Java 코드](/Level-2/46.java)
