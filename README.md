@@ -220,3 +220,4 @@
 * 카펫: [Java 코드](/Level-2/45.java)
 * 조이스틱: [Java 코드](/Level-2/46.java)
 * 큰 수 만들기: [Java 코드](/Level-2/47.java)
+* 구명보트: [Java 코드](/Level-2/48.java)
