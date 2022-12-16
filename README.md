@@ -224,3 +224,4 @@
 * 오픈채팅방: [Java 코드](/Level-2/49.java)
 * 후보키: [Java 코드](/Level-2/50.java)
 * 타겟 넘버: [Java 코드](/Level-2/51.java)
+* 스킬트리: [Java 코드](/Level-2/52.java)
