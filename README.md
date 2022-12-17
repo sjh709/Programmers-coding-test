@@ -226,3 +226,4 @@
 * 타겟 넘버: [Java 코드](/Level-2/51.java)
 * 스킬트리: [Java 코드](/Level-2/52.java)
 * 방문 길이: [Java 코드](/Level-2/53.java)
+* 문자열 압축: [Java 코드](/Level-2/54.java)
