@@ -228,3 +228,4 @@
 * 방문 길이: [Java 코드](/Level-2/53.java)
 * 문자열 압축: [Java 코드](/Level-2/54.java)
 * 괄호 변환: [Java 코드](/Level-2/55.java)
+* 멀쩡한 사각형: [Java 코드](/Level-2/56.java)
