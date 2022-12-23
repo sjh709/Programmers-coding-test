@@ -230,3 +230,4 @@
 * 괄호 변환: [Java 코드](/Level-2/55.java)
 * 멀쩡한 사각형: [Java 코드](/Level-2/56.java)
 * 튜플: [Java 코드](/Level-2/57.java)
+* [카카오 인턴] 수식 최대화: [Java 코드](/Level-2/58.java)
