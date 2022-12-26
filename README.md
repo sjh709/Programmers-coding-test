@@ -233,3 +233,4 @@
 * [카카오 인턴] 수식 최대화: [Java 코드](/Level-2/58.java)
 * 삼각 달팽이: [Java 코드](/Level-2/59.java)
 * 쿼드압축 후 개수 세기: [Java 코드](/Level-2/60.java)
+* 이진 변환 반복하기: [Java 코드](/Level-2/61.java)
