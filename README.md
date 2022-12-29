@@ -239,3 +239,4 @@
 * 괄호 회전하기: [Java 코드](/Level-2/64.java)
 * 행렬 테두리 회전하기: [Java 코드](/Level-2/65.java)
 * 2개 이하로 다른 비트: [Java 코드](/Level-2/66.java)
+* 거리두기 확인하기: [Java 코드](/Level-2/67.java)
