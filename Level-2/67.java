@@ -10,12 +10,12 @@ class Solution {
         if(x < 3 && position[x + 1][y] == 'O' && position[x + 2][y] == 'P') return false;
         
         // PX  PO  PO
-		// OP  XP  OP
+	// OP  XP  OP
         if(x < 4 && y < 4 && position[x + 1][y + 1] == 'P'
 				    	  && (position[x][y + 1] == 'O' || position[x + 1][y] == 'O')) return false;
         
         // OP  XP  OP
-		// PX  PO  PO
+	// PX  PO  PO
         if(x < 4 && y > 0 && position[x + 1][y - 1] == 'P'
 						  && (position[x + 1][y] == 'O' || position[x][y - 1] == 'O')) return false;
         
