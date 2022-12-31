@@ -241,3 +241,4 @@
 * 2개 이하로 다른 비트: [Java 코드](/Level-2/66.java)
 * 거리두기 확인하기: [Java 코드](/Level-2/67.java)
 * 모음 사전: [Java 코드](/Level-2/68.java)
+* 빛의 경로 사이클: [Java 코드](/Level-2/69.java)
