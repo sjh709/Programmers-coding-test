@@ -249,3 +249,4 @@
 * k진수에서 소수 개수 구하기: [Java 코드](/Level-2/74.java)
 * 주차 요금 계산: [Java 코드](/Level-2/75.java)
 * 양궁대회: [Java 코드](/Level-2/76.java)
+* 두 큐 합 같게 만들기: [Java 코드](/Level-2/77.java)
