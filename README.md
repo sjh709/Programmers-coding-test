@@ -250,3 +250,4 @@
 * 주차 요금 계산: [Java 코드](/Level-2/75.java)
 * 양궁대회: [Java 코드](/Level-2/76.java)
 * 두 큐 합 같게 만들기: [Java 코드](/Level-2/77.java)
+* 할인 행사: [Java 코드](/Level-2/78.java)
