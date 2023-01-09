@@ -251,3 +251,4 @@
 * 양궁대회: [Java 코드](/Level-2/76.java)
 * 두 큐 합 같게 만들기: [Java 코드](/Level-2/77.java)
 * 할인 행사: [Java 코드](/Level-2/78.java)
+* 혼자 놀기의 달인: [Java 코드](/Level-2/79.java)
