@@ -253,3 +253,4 @@
 * 할인 행사: [Java 코드](/Level-2/78.java)
 * 혼자 놀기의 달인: [Java 코드](/Level-2/79.java)
 * 연속 부분 수열 합의 개수: [Java 코드](/Level-2/80.java)
+* 택배상자: [Java 코드](/Level-2/81.java)
