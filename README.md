@@ -255,3 +255,4 @@
 * 연속 부분 수열 합의 개수: [Java 코드](/Level-2/80.java)
 * 택배상자: [Java 코드](/Level-2/81.java)
 * 롤케이크 자르기: [Java 코드](/Level-2/82.java)
+* 우박수열 정적분: [Java 코드](/Level-2/83.java)
