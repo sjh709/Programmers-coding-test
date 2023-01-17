@@ -257,3 +257,4 @@
 * 롤케이크 자르기: [Java 코드](/Level-2/82.java)
 * 우박수열 정적분: [Java 코드](/Level-2/83.java)
 * 숫자 카드 나누기: [Java 코드](/Level-2/84.java)
+* 귤 고르기: [Java 코드](/Level-2/85.java)
