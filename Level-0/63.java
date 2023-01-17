@@ -1,17 +1,20 @@
 class Solution {
     public int solution(int[][] lines) {
         int answer = 0;
-        int[] temp = new int[199];
-        for(int i = 0; i < lines.length; i++){
-            int max = Math.max(lines[i][0], lines[i][1]);
-            int min = Math.min(lines[i][0], lines[i][1]);
-            for(int j = min; j < max; j++){
-                temp[j + 99]++;
+        
+        // 1. arr 배열 및 변수 초기화
+        int[] arr = new int[200];
+        
+        // 2. lines 정보를 arr 배열에 적용
+        for(int i = 0; i < lines.length; i++) {
+            for(int j = lines[i][0] + 100; j < lines[i][1] + 100; j++) {
+                arr[j]++;
             }
         }
         
-        for(int i = 0; i < temp.length; i++){
-            if(temp[i] > 1) answer++;
+        // 3. arr 배열에서 겹친 부분 세기
+        for(int i = 0; i < 200; i++) {
+            if(arr[i] > 1) answer++;
         }
         
         return answer;
