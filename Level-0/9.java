@@ -1,20 +1,29 @@
 class Solution {
-    public int[] solution(int denum1, int num1, int denum2, int num2) {
-        int[] answer = new int[2];
-        int denum = denum1 * num2 + denum2 * num1;
-        int num = num1 * num2;
+    public int gcd(int a, int b) {
+        if(a % b == 0) return b;
+        return gcd(b, a % b);
+    }
+    
+    public int[] solution(int numer1, int denom1, int numer2, int denom2) {
+        int[] answer;
         
-        int a = Math.max(denum, num);
-        int b = Math.min(denum, num);
+        // 1. 두 분수의 합 계산
+        int boonja = numer1 * denom2 + numer2 * denom1;
+        int boonmo = denom1 * denom2;
         
-        while(b != 0){
-            int r = a % b;
-            a = b;
-            b = r;
-        }
+        // 2. 최대공약수 계산
+        // int start = Math.max(boonja, boonmo);
+        // int gcd_value = 1;
+        // for(int i = start; i >= 0; i--) {
+        //     if(boonmo % i == 0 && boonja % i == 0) {
+        //         gcd_value = i;
+        //         break;
+        //     }
+        // }
+        int gcd_value = gcd(boonmo, boonja);
         
-        answer[0] = denum / a;
-        answer[1] = num / a;
+        // 3. gcd로 나눈 값을 answer에 담기
+        answer = new int[]{boonja / gcd_value, boonmo / gcd_value};
         
         return answer;
     }
