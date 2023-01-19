@@ -259,3 +259,4 @@
 * 숫자 카드 나누기: [Java 코드](/Level-2/84.java)
 * 귤 고르기: [Java 코드](/Level-2/85.java)
 * 점 찍기: [Java 코드](/Level-2/86.java)
+* 디펜스 게임: [Java 코드](/Level-2/87.java)
