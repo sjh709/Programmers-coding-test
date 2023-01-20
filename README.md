@@ -260,3 +260,4 @@
 * 귤 고르기: [Java 코드](/Level-2/85.java)
 * 점 찍기: [Java 코드](/Level-2/86.java)
 * 디펜스 게임: [Java 코드](/Level-2/87.java)
+* 테이블 해시 함수: [Java 코드](/Level-2/88.java)
