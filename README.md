@@ -262,3 +262,4 @@
 * 디펜스 게임: [Java 코드](/Level-2/87.java)
 * 테이블 해시 함수: [Java 코드](/Level-2/88.java)
 * 유사 칸토어 비트열: [Java 코드](/Level-2/89.java)
+* 마법의 엘리베이터: [Java 코드](/Level-2/90.java)
