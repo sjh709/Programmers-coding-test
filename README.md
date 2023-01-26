@@ -266,3 +266,4 @@
 * 이모티콘 할인행사: [Java 코드](/Level-2/91.java)
 * 택배 배달과 수거하기: [Java 코드](/Level-2/92.java)
 * 시소 짝꿍: [Java 코드](/Level-2/93.java)
+* 숫자 변환하기: [Java 코드](/Level-2/94.java)
