@@ -1,33 +1,35 @@
+import java.util.*;
 class Solution {
     public int solution(String dartResult) {
         int answer = 0;
-        String numStr = "";
-        int[] score = new int[3];
-        int idx = 0;
-        for(int i = 0; i < dartResult.length(); i++){
+        
+        Stack<Integer> scores = new Stack<>();
+        int start_idx = 0;
+        
+        for(int i = 0; i < dartResult.length(); i++) {
             char c = dartResult.charAt(i);
-            if(c >= '0' && c <= '9'){
-                numStr += String.valueOf(c);
-            }else if(c == 'S' || c == 'D' || c == 'T'){
-                int n = Integer.parseInt(numStr);
-                if(c == 'S'){
-                    score[idx++] = (int)Math.pow(n, 1);
-                }else if(c == 'D'){
-                    score[idx++] = (int)Math.pow(n, 2);
-                }else{
-                    score[idx++] = (int)Math.pow(n, 3);
+            if(c == 'S' || c == 'D' || c == 'T') {
+                int num = Integer.parseInt(dartResult.substring(start_idx, i));
+                scores.add((int) Math.pow(num, c == 'S' ? 1 : c == 'D' ? 2 : 3));
+            }else if(c == '#') {
+                int a = scores.pop();
+                scores.add(a * (-1));
+            }else if(c == '*') {
+                int a = scores.pop();
+                if(!scores.isEmpty()) {
+                    int b = scores.pop();
+                    scores.add(b * 2);
                 }
-                numStr = "";
-            }else{
-                if(c == '*'){
-                    score[idx - 1] *= 2;
-                    if(idx - 2 >= 0) score[idx - 2] *= 2;
-                }else if(c == '#'){
-                    score[idx - 1] *= (-1);
-                }
+                scores.add(a * 2);
             }
+            
+            if(c < '0' || c > '9') start_idx = i + 1;
         }
-        answer = score[0] + score[1] + score[2];
+        
+        while(!scores.isEmpty()) {
+            answer += scores.pop();
+        }
+        
         return answer;
     }
 }
