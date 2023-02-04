@@ -274,3 +274,4 @@
 * 숫자 변환하기: [Java 코드](/Level-2/94.java)
 * 뒤에 있는 큰 수 찾기: [Java 코드](/Level-2/95.java)
 * 무인도 여행: [Java 코드](/Level-2/96.java)
+* 호텔 대실: [Java 코드](/Level-2/97.java)
