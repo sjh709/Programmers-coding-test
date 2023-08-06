@@ -9,7 +9,7 @@
 * 두 수의 합: [Java 코드](/Level-0/3.java) | [JS 코드](/Level-0/3.js)
 * 두 수의 차: [Java 코드](/Level-0/4.java) | [JS 코드](/Level-0/4.js)
 * 두 수의 곱: [Java 코드](/Level-0/5.java) | [JS 코드](/Level-0/5.js)
-* 몫 구하기: [Java 코드](/Level-0/6.java)
+* 몫 구하기: [Java 코드](/Level-0/6.java) | [JS 코드](/Level-0/6.js)
 * 두 수의 나눗셈: [Java 코드](/Level-0/7.java)
 * 숫자 비교하기: [Java 코드](/Level-0/8.java)
 * 분수의 덧셈: [Java 코드](/Level-0/9.java)
