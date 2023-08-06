@@ -7,7 +7,7 @@
 * 중복된 숫자 개수: [Java 코드](/Level-0/1.java) | [JS 코드](/Level-0/1.js)
 * 머쓱이보다 키 큰 사람: [Java 코드](/Level-0/2.java) | [JS 코드](/Level-0/2.js)
 * 두 수의 합: [Java 코드](/Level-0/3.java) | [JS 코드](/Level-0/3.js)
-* 두 수의 차: [Java 코드](/Level-0/4.java)
+* 두 수의 차: [Java 코드](/Level-0/4.java) | [JS 코드](/Level-0/4.js)
 * 두 수의 곱: [Java 코드](/Level-0/5.java)
 * 몫 구하기: [Java 코드](/Level-0/6.java)
 * 두 수의 나눗셈: [Java 코드](/Level-0/7.java)
