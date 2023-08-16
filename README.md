@@ -11,7 +11,7 @@
 * 두 수의 곱: [Java 코드](/Level-0/5.java) | [JS 코드](/Level-0/5.js)
 * 몫 구하기: [Java 코드](/Level-0/6.java) | [JS 코드](/Level-0/6.js)
 * 두 수의 나눗셈: [Java 코드](/Level-0/7.java) | [JS 코드](/Level-0/7.js)
-* 숫자 비교하기: [Java 코드](/Level-0/8.java)
+* 숫자 비교하기: [Java 코드](/Level-0/8.java) | [JS 코드](/Level-0/8.js)
 * 분수의 덧셈: [Java 코드](/Level-0/9.java)
 * 배열 두배 만들기: [Java 코드](/Level-0/10.java)
 * 나머지 구하기: [Java 코드](/Level-0/11.java)
