@@ -13,7 +13,7 @@
 * 두 수의 나눗셈: [Java 코드](/Level-0/7.java) | [JS 코드](/Level-0/7.js)
 * 숫자 비교하기: [Java 코드](/Level-0/8.java) | [JS 코드](/Level-0/8.js)
 * 분수의 덧셈: [Java 코드](/Level-0/9.java) | [JS 코드](/Level-0/9.js)
-* 배열 두배 만들기: [Java 코드](/Level-0/10.java)
+* 배열 두배 만들기: [Java 코드](/Level-0/10.java) | [JS 코드](/Level-0/10.js)
 * 나머지 구하기: [Java 코드](/Level-0/11.java)
 * 중앙값 구하기: [Java 코드](/Level-0/12.java)
 * 최빈값 구하기: [Java 코드](/Level-0/13.java)
