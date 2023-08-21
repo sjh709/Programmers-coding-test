@@ -15,7 +15,7 @@
 * 분수의 덧셈: [Java 코드](/Level-0/9.java) | [JS 코드](/Level-0/9.js)
 * 배열 두배 만들기: [Java 코드](/Level-0/10.java) | [JS 코드](/Level-0/10.js)
 * 나머지 구하기: [Java 코드](/Level-0/11.java) | [JS 코드](/Level-0/11.js)
-* 중앙값 구하기: [Java 코드](/Level-0/12.java)
+* 중앙값 구하기: [Java 코드](/Level-0/12.java) | [JS 코드](/Level-0/12.js)
 * 최빈값 구하기: [Java 코드](/Level-0/13.java)
 * 짝수는 싫어요: [Java 코드](/Level-0/14.java)
 * 피자 나눠 먹기 (1): [Java 코드](/Level-0/15.java)
