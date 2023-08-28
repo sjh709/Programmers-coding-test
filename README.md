@@ -20,7 +20,7 @@
 * 짝수는 싫어요: [Java 코드](/Level-0/14.java) | [JS 코드](/Level-0/14.js)
 * 피자 나눠 먹기 (1): [Java 코드](/Level-0/15.java) | [JS 코드](/Level-0/15.js)
 * 피자 나눠 먹기 (2): [Java 코드](/Level-0/16.java) | [JS 코드](/Level-0/16.js)
-* 피자 나눠 먹기 (3): [Java 코드](/Level-0/17.java)
+* 피자 나눠 먹기 (3): [Java 코드](/Level-0/17.java) | [JS 코드](/Level-0/17.js)
 * 배열의 평균값: [Java 코드](/Level-0/18.java)
 * 옷가게 할인 받기: [Java 코드](/Level-0/19.java)
 * 아이스 아메리카노: [Java 코드](/Level-0/20.java)
