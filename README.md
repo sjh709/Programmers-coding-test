@@ -24,7 +24,7 @@
 * 배열의 평균값: [Java 코드](/Level-0/18.java) | [JS 코드](/Level-0/18.js)
 * 옷가게 할인 받기: [Java 코드](/Level-0/19.java) | [JS 코드](/Level-0/19.js)
 * 아이스 아메리카노: [Java 코드](/Level-0/20.java) | [JS 코드](/Level-0/20.js)
-* 나이 출력: [Java 코드](/Level-0/21.java)
+* 나이 출력: [Java 코드](/Level-0/21.java) | [JS 코드](/Level-0/21.js)
 * 배열 뒤집기: [Java 코드](/Level-0/22.java)
 * 문자열 뒤집기: [Java 코드](/Level-0/23.java)
 * 직각삼각형 출력하기: [Java 코드](/Level-0/24.java)
