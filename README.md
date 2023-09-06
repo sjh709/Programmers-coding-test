@@ -27,7 +27,7 @@
 * 나이 출력: [Java 코드](/Level-0/21.java) | [JS 코드](/Level-0/21.js)
 * 배열 뒤집기: [Java 코드](/Level-0/22.java) | [JS 코드](/Level-0/22.js)
 * 문자열 뒤집기: [Java 코드](/Level-0/23.java) | [JS 코드](/Level-0/23.js)
-* 직각삼각형 출력하기: [Java 코드](/Level-0/24.java)
+* 직각삼각형 출력하기: [Java 코드](/Level-0/24.java) | **[JS 코드]**(/Level-0/24.js)
 * 짝수 홀수 개수: [Java 코드](/Level-0/25.java)
 * 문자 반복 출력하기: [Java 코드](/Level-0/26.java)
 * 특정 문자 제거하기: [Java 코드](/Level-0/27.java)
