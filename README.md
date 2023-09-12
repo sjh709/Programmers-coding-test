@@ -32,7 +32,7 @@
 * 문자 반복 출력하기: [Java 코드](/Level-0/26.java) | [JS 코드](/Level-0/26.js)
 * 특정 문자 제거하기: [Java 코드](/Level-0/27.java) | [JS 코드](/Level-0/27.js)
 * 각도기: [Java 코드](/Level-0/28.java) | [JS 코드](/Level-0/28.js)
-* 양꼬치: [Java 코드](/Level-0/29.java)
+* 양꼬치: [Java 코드](/Level-0/29.java) | [JS 코드](/Level-0/29.js)
 * 짝수의 합: [Java 코드](/Level-0/30.java)
 * 배열 자르기: [Java 코드](/Level-0/31.java)
 * 외계행성의 나이: [Java 코드](/Level-0/32.java)
