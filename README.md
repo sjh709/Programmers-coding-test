@@ -33,7 +33,7 @@
 * 특정 문자 제거하기: [Java 코드](/Level-0/27.java) | [JS 코드](/Level-0/27.js)
 * 각도기: [Java 코드](/Level-0/28.java) | [JS 코드](/Level-0/28.js)
 * 양꼬치: [Java 코드](/Level-0/29.java) | [JS 코드](/Level-0/29.js)
-* 짝수의 합: [Java 코드](/Level-0/30.java)
+* 짝수의 합: [Java 코드](/Level-0/30.java) | [JS 코드](/Level-0/30.js)
 * 배열 자르기: [Java 코드](/Level-0/31.java)
 * 외계행성의 나이: [Java 코드](/Level-0/32.java)
 * 진료 순서 정하기: [Java 코드](/Level-0/33.java)
