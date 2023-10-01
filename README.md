@@ -49,7 +49,7 @@
 * 주사위의 개수: [Java 코드](/Level-0/43.java) | [JS 코드](/Level-0/43.js)
 * 합성수 찾기: [Java 코드](/Level-0/44.java) | [JS 코드](/Level-0/44.js)
 * 최댓값 만들기 (1): [Java 코드](/Level-0/45.java) | [JS 코드](/Level-0/45.js)
-* 팩토리얼: [Java 코드](/Level-0/46.java)
+* 팩토리얼: [Java 코드](/Level-0/46.java) | [JS 코드](/Level-0/46.js)
 * 모음 제거: [Java 코드](/Level-0/47.java)
 * 문자열 정렬하기 (1): [Java 코드](/Level-0/48.java)
 * 숨어있는 숫자의 덧셈 (1): [Java 코드](/Level-0/49.java)
