@@ -89,7 +89,7 @@
 * 가장 큰 수 찾기: [Java 코드](/Level-0/83.java) | [JS 코드](/Level-0/83.js)
 * 문자열 계산하기: [Java 코드](/Level-0/84.java) | [JS 코드](/Level-0/84.js)
 * 배열의 유사도: [Java 코드](/Level-0/85.java) | [JS 코드](/Level-0/85.js)
-* 숫자 찾기: [Java 코드](/Level-0/86.java)
+* 숫자 찾기: [Java 코드](/Level-0/86.java) | [JS 코드](/Level-0/86.js)
 * n의 배수 고르기: [Java 코드](/Level-0/87.java)
 * 자릿수 더하기: [Java 코드](/Level-0/88.java)
 * OX퀴즈: [Java 코드](/Level-0/89.java)
