@@ -90,7 +90,7 @@
 * 문자열 계산하기: [Java 코드](/Level-0/84.java) | [JS 코드](/Level-0/84.js)
 * 배열의 유사도: [Java 코드](/Level-0/85.java) | [JS 코드](/Level-0/85.js)
 * 숫자 찾기: [Java 코드](/Level-0/86.java) | [JS 코드](/Level-0/86.js)
-* n의 배수 고르기: [Java 코드](/Level-0/87.java)
+* n의 배수 고르기: [Java 코드](/Level-0/87.java) | [JS 코드](/Level-0/87.js)
 * 자릿수 더하기: [Java 코드](/Level-0/88.java)
 * OX퀴즈: [Java 코드](/Level-0/89.java)
 * 문자열안에 문자열: [Java 코드](/Level-0/90.java)
