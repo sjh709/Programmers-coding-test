@@ -92,7 +92,7 @@
 * 숫자 찾기: [Java 코드](/Level-0/86.java) | [JS 코드](/Level-0/86.js)
 * n의 배수 고르기: [Java 코드](/Level-0/87.java) | [JS 코드](/Level-0/87.js)
 * 자릿수 더하기: [Java 코드](/Level-0/88.java) | [JS 코드](/Level-0/88.js)
-* OX퀴즈: [Java 코드](/Level-0/89.java)
+* OX퀴즈: [Java 코드](/Level-0/89.java) | [JS 코드](/Level-0/89.js)
 * 문자열안에 문자열: [Java 코드](/Level-0/90.java)
 * 제곱수 판별하기: [Java 코드](/Level-0/91.java)
 * 세균 증식: [Java 코드](/Level-0/92.java)
