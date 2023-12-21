@@ -126,7 +126,7 @@
 * 약수의 합: [Java 코드](/Level-1/16.java) | [JS 코드](/Level-1/16.js)
 * 이상한 문자 만들기: [Java 코드](/Level-1/17.java) | [JS 코드](/Level-1/17.js)
 * 자릿수 더하기: [Java 코드](/Level-1/18.java) | [JS 코드](/Level-1/18.js)
-* 자연수 뒤집어 배열로 만들기: [Java 코드](/Level-1/19.java)
+* 자연수 뒤집어 배열로 만들기: [Java 코드](/Level-1/19.java) | [JS 코드](/Level-1/19.js)
 * 정수 내림차순으로 배치하기: [Java 코드](/Level-1/20.java)
 * 정수 제곱근 판별: [Java 코드](/Level-1/21.java)
 * 제일 작은 수 제거하기: [Java 코드](/Level-1/22.java)
