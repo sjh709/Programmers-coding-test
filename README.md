@@ -143,7 +143,7 @@
 * 예산: [Java 코드](/Level-1/33.java)
 * [1차] 비밀지도: [Java 코드](/Level-1/34.java)
 * [1차] 다트 게임: [Java 코드](/Level-1/35.java)
-* 완주하지 못한 선수: [Java 코드](/Level-1/36.java)
+* 완주하지 못한 선수: [Java 코드](/Level-1/36.java) | [JS 코드](/Level-1/36.js) ✨
 * K번째수: [Java 코드](/Level-1/37.java)
 * 모의고사: [Java 코드](/Level-1/38.java)
 * 체육복: [Java 코드](/Level-1/39.java)
