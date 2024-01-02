@@ -135,7 +135,7 @@
 * 콜라츠 추측: [Java 코드](/Level-1/25.java) | [JS 코드](/Level-1/25.js)
 * 평균 구하기: [Java 코드](/Level-1/26.java) | [JS 코드](/Level-1/26.js)
 * 하샤드 수: [Java 코드](/Level-1/27.java) | [JS 코드](/Level-1/27.js)
-* 핸드폰 번호 가리기: [Java 코드](/Level-1/28.java)
+* 핸드폰 번호 가리기: [Java 코드](/Level-1/28.java) | [JS 코드](/Level-1/28.js)
 * 행렬의 덧셈: [Java 코드](/Level-1/29.java)
 * x만큼 간격이 있는 n개의 숫자: [Java 코드](/Level-1/30.java)
 * 직사각형 별찍기: [Java 코드](/Level-1/31.java)
