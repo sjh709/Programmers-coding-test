@@ -223,7 +223,7 @@
 * 기능개발: [Java 코드](/Level-2/39.java)
 * 프린터: [Java 코드](/Level-2/40.java)
 * 더 맵게: [Java 코드](/Level-2/41.java)
-* 가장 큰 수: [Java 코드](/Level-2/42.java)
+* 가장 큰 수: [Java 코드](/Level-2/42.java) | [JS 코드](/Level-2/42.js) ✨
 * H-Index: [Java 코드](/Level-2/43.java)
 * 소수 찾기: [Java 코드](/Level-2/44.java)
 * 카펫: [Java 코드](/Level-2/45.java)
