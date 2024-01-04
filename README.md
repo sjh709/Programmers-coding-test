@@ -224,7 +224,7 @@
 * 프린터: [Java 코드](/Level-2/40.java)
 * 더 맵게: [Java 코드](/Level-2/41.java)
 * 가장 큰 수: [Java 코드](/Level-2/42.java) | [JS 코드](/Level-2/42.js) ✨
-* H-Index: [Java 코드](/Level-2/43.java)
+* H-Index: [Java 코드](/Level-2/43.java) | [JS 코드](/Level-2/43.js) ✨
 * 소수 찾기: [Java 코드](/Level-2/44.java)
 * 카펫: [Java 코드](/Level-2/45.java)
 * 조이스틱: [Java 코드](/Level-2/46.java)
