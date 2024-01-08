@@ -10,19 +10,19 @@ function solution(numbers) {
         return true;
     };
     
-    const getPermutation = (arr, str) => {
+    const numOfCase = (arr, str) => {
         if(arr.length) {
             for(let i = 0; i < arr.length; i++) {
                 let copy = [...arr];
                 copy.splice(i, 1);
-                getPermutation(copy, str + arr[i]);
+                numOfCase(copy, str + arr[i]);
             }
         }
         
         if(isPrimeNum(Number(str))) set.add(Number(str));
     };
     
-    getPermutation(arr, '');
+    numOfCase(arr, '');
     
     return set.size;
 }
