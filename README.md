@@ -226,7 +226,7 @@
 * 가장 큰 수: [Java 코드](/Level-2/42.java) | [JS 코드](/Level-2/42.js) ✨
 * H-Index: [Java 코드](/Level-2/43.java) | [JS 코드](/Level-2/43.js) ✨
 * 소수 찾기: [Java 코드](/Level-2/44.java) | [JS 코드](/Level-2/44.js) ✨
-* 카펫: [Java 코드](/Level-2/45.java)
+* 카펫: [Java 코드](/Level-2/45.java) | [JS 코드](/Level-2/45.js)
 * 조이스틱: [Java 코드](/Level-2/46.java)
 * 큰 수 만들기: [Java 코드](/Level-2/47.java)
 * 구명보트: [Java 코드](/Level-2/48.java)
