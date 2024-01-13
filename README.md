@@ -251,7 +251,7 @@
 * 거리두기 확인하기: [Java 코드](/Level-2/67.java)
 * 모음 사전: [Java 코드](/Level-2/68.java)
 * 빛의 경로 사이클: [Java 코드](/Level-2/69.java)
-* 전력망을 둘로 나누기: [Java 코드](/Level-2/70.java)
+* 전력망을 둘로 나누기: [Java 코드](/Level-2/70.java) | [JS 코드](/Level-2/70.js) ✨
 * 교점에 별 만들기: [Java 코드](/Level-2/71.java)
 * n^2 배열 자르기: [Java 코드](/Level-2/72.java)
 * 피로도: [Java 코드](/Level-2/73.java) | [JS 코드](/Level-2/73.js) ✨
