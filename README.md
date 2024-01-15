@@ -232,7 +232,7 @@
 * 구명보트: [Java 코드](/Level-2/48.java)
 * 오픈채팅방: [Java 코드](/Level-2/49.java)
 * 후보키: [Java 코드](/Level-2/50.java)
-* 타겟 넘버: [Java 코드](/Level-2/51.java)
+* 타겟 넘버: [Java 코드](/Level-2/51.java) | [JS 코드](/Level-2/51.js) ✨
 * 스킬트리: [Java 코드](/Level-2/52.java)
 * 방문 길이: [Java 코드](/Level-2/53.java)
 * 문자열 압축: [Java 코드](/Level-2/54.java)
