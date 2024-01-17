@@ -184,7 +184,7 @@
 
 * 카카오프렌즈 컬러링북: [Java 코드](/Level-2/1.java)
 * 단체사진 찍기: [Java 코드](/Level-2/2.java)
-* 게임 맵 최단거리: [Java 코드](/Level-2/3.java)
+* 게임 맵 최단거리: [Java 코드](/Level-2/3.java) | [JS 코드](/Level-2/3.js) ✨
 * 124 나라의 숫자: [Java 코드](/Level-2/4.java)
 * 2 x n 타일링: [Java 코드](/Level-2/5.java)
 * 3 x n 타일링: [Java 코드](/Level-2/6.java)
