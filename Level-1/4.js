@@ -7,3 +7,17 @@ function solution(arr) {
     }
     return answer;
 }
+
+// function solution(arr) {
+//     let answer = [];
+    
+//     arr.forEach((v) => {
+//         if(answer.length) {
+//             if(answer[answer.length - 1] !== v) answer.push(v);
+//         }else {
+//             answer.push(v);
+//         }
+//     });
+    
+//     return answer;
+// }
