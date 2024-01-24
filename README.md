@@ -189,7 +189,7 @@
 * 2 x n 타일링: [Java 코드](/Level-2/5.java)
 * 3 x n 타일링: [Java 코드](/Level-2/6.java)
 * 가장 큰 정사각형 찾기: [Java 코드](/Level-2/7.java)
-* 올바른 괄호: [Java 코드](/Level-2/8.java)
+* 올바른 괄호: [Java 코드](/Level-2/8.java) | [JS 코드](/Level-2/8.js)
 * 다음 큰 숫자: [Java 코드](/Level-2/9.java)
 * 땅따먹기: [Java 코드](/Level-2/10.java)
 * 멀리 뛰기: [Java 코드](/Level-2/11.java)
