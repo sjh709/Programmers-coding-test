@@ -161,7 +161,7 @@
 * 부족한 금액 계산하기: [Java 코드](/Level-1/51.java) | [JS 코드](/Level-1/51.js)
 * 없는 숫자 더하기: [Java 코드](/Level-1/52.java) | [JS 코드](/Level-1/52.js)
 * 최소직사각형: [Java 코드](/Level-1/53.java) | [JS 코드](/Level-1/53.js)
-* 나머지가 1이 되는 수 찾기: [Java 코드](/Level-1/54.java)
+* 나머지가 1이 되는 수 찾기: [Java 코드](/Level-1/54.java) | [JS 코드](/Level-1/54.js)
 * 신고 결과 받기: [Java 코드](/Level-1/55.java)
 * 성격 유형 검사하기: [Java 코드](/Level-1/56.java)
 * 숫자 짝꿍: [Java 코드](/Level-1/57.java)
