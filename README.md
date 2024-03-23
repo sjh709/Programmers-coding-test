@@ -213,7 +213,7 @@
 * JadenCase 문자열 만들기: [Java 코드](/Level-2/20.java) | [JS 코드](/Level-2/18.js)
 * N-Queen: [Java 코드](/Level-2/21.java) | [JS 코드](/Level-2/19.js) 🐣
 * N개의 최소공배수: [Java 코드](/Level-2/22.java) | [JS 코드](/Level-2/20.js) 🐣
-* 짝지어 제거하기: [Java 코드](/Level-2/23.java)
+* 짝지어 제거하기: [Java 코드](/Level-2/23.java) | [JS 코드](/Level-2/21.js) 🐣
 * 배달: [Java 코드](/Level-2/24.java)
 * 점프와 순간 이동: [Java 코드](/Level-2/25.java)
 * 영어 끝말잇기: [Java 코드](/Level-2/26.java)
