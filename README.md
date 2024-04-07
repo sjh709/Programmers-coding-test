@@ -228,7 +228,7 @@
 * 전화번호 목록: [Java 코드](/Level-2/35.java) | [JS 코드](/Level-2/33.js) ✨
 * 의상: [Java 코드](/Level-2/36.java) | [JS 코드](/Level-2/34.js) ✨
 * 다리를 지나는 트럭: [Java 코드](/Level-2/37.java) | [JS 코드](/Level-2/35.js) ✨
-* 주식가격: [Java 코드](/Level-2/38.java) | [JS 코드](/Level-2/38.js) ✨
+* 주식가격: [Java 코드](/Level-2/38.java) | [JS 코드](/Level-2/36.js) ✨
 * 기능개발: [Java 코드](/Level-2/39.java) | [JS 코드](/Level-2/39.js)
 * 프로세스: [Java 코드](/Level-2/40.java) | [JS 코드](/Level-2/40.js) ✨
 * 더 맵게: [Java 코드](/Level-2/41.java) | [JS 코드](/Level-2/41.js) ✨
