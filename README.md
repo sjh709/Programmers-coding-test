@@ -231,7 +231,7 @@
 * 주식가격: [Java 코드](/Level-2/38.java) | [JS 코드](/Level-2/36.js) ✨
 * 기능개발: [Java 코드](/Level-2/39.java) | [JS 코드](/Level-2/37.js) 🐣
 * 프로세스: [Java 코드](/Level-2/40.java) | [JS 코드](/Level-2/38.js) ✨
-* 더 맵게: [Java 코드](/Level-2/41.java) | [JS 코드](/Level-2/41.js) ✨
+* 더 맵게: [Java 코드](/Level-2/41.java) | [JS 코드](/Level-2/39.js) ✨
 * 가장 큰 수: [Java 코드](/Level-2/42.java) | [JS 코드](/Level-2/42.js) ✨
 * H-Index: [Java 코드](/Level-2/43.java) | [JS 코드](/Level-2/43.js) ✨
 * 소수 찾기: [Java 코드](/Level-2/44.java) | [JS 코드](/Level-2/44.js) ✨
