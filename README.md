@@ -233,7 +233,7 @@
 * 프로세스: [Java 코드](/Level-2/40.java) | [JS 코드](/Level-2/38.js) ✨
 * 더 맵게: [Java 코드](/Level-2/41.java) | [JS 코드](/Level-2/39.js) ✨
 * 가장 큰 수: [Java 코드](/Level-2/42.java) | [JS 코드](/Level-2/40.js) ✨
-* H-Index: [Java 코드](/Level-2/43.java) | [JS 코드](/Level-2/43.js) ✨
+* H-Index: [Java 코드](/Level-2/43.java) | [JS 코드](/Level-2/41.js) ✨
 * 소수 찾기: [Java 코드](/Level-2/44.java) | [JS 코드](/Level-2/44.js) ✨
 * 카펫: [Java 코드](/Level-2/45.java) | [JS 코드](/Level-2/45.js)
 * 조이스틱: [Java 코드](/Level-2/46.java) | [JS 코드](/Level-2/46.js) ✨
